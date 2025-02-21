@@ -1,1 +1,1 @@
-if(argc==1){cout<<"Please input numbers to find average."<<endl;}
+efine for a system color, try Ctrl+Clicking it */
