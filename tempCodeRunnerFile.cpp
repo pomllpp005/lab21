@@ -1,0 +1,1 @@
+if(argc==1){cout<<"Please input numbers to find average."<<endl;}
